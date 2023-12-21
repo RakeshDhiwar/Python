@@ -26,7 +26,7 @@ arr3 = np.array([1, 2, 3, 4, 5, 6])
 split_arr = np.split(arr3, 3)
 print("Split array:", split_arr)
 
-
+# Vectorization
 # Performing operations on arrays without explicit looping
 a = np.array([1, 2, 3])
 b = np.array([4, 5, 6])
